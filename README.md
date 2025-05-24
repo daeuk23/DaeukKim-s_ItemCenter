@@ -6,7 +6,7 @@ Although the hosting service was discontinued on April 10th, 2024 due to server 
 
 Hello my name is Daeuk Kim   
 my email is : a24738598@gmail.com  
-Develop period : May 18th ~ Apr 6th 2023
+Develop period : May 18th ~ Apr 6th 2023  
 URL Used cyclic: https://proud-teal-bluefish.cyclic.app =>   
 unfortunately stopped hosting since **Apr 10th 2024**  
 
