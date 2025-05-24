@@ -2,18 +2,18 @@
 Using various front-end and back-end technologies along with database management, this project provides a user-friendly interface that allows users to register and purchase items,   while also enabling easy access to inventory and related information at a glance.  
 Although the hosting service was discontinued on April 10th, 2024 due to server maintenance limitations, the core structure of the website remains intact, leaving room for future   collaboration and further development.
 
-## Used tequniques  
-
--> CSS(pack,tailwind), Javascript , Html->Ejs (Apr 2nd)  
--> Node.js, Express.js, web protocall  
--> NOSQL, PostgreSQL, json handler, CRUD, mongodb
-
 ## Contact & Info
 
 Hello my name is Daeuk Kim   
 my email is : a24738598@gmail.com  
 Develop period : May 18th ~ Apr 6th 2023
 URL Used cyclic: https://proud-teal-bluefish.cyclic.app => unfortunately stopped hosting since **Apr 10th 2024**  
+
+## Used tequniques  
+
+-> CSS(pack,tailwind), Javascript , Html->Ejs (Apr 2nd)  
+-> Node.js, Express.js, web protocall  
+-> NOSQL, PostgreSQL, json handler, CRUD, mongodb
 
 ## Pages  
 
